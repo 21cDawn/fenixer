@@ -1,0 +1,13 @@
+[monitor] 14:25:48 INFO: Starting syncthing
+[GUGOS] 14:25:50 INFO: syncthing v0.10.17 (xgcc (Ubuntu 4.9.1-16ubuntu6) 4.9.1 linux-amd64 default) niklas@Niklas-Netbook 2015-01-04 19:18:14 UTC
+[GUGOS] 14:25:50 INFO: My ID: GUGOSFT-EFSP3EE-ZDWJQX4-T4E3APJ-WYIVSBJ-XMGCD37-MZUKGKQ-TC4BYA3
+[GUGOS] 14:25:50 INFO: Starting web GUI on http://0.0.0.0:8080/
+[GUGOS] 14:25:51 INFO: Starting UPnP discovery...
+[GUGOS] 14:25:57 INFO: UPnP discovery complete (found 0 devices).
+[GUGOS] 14:25:57 INFO: Starting local discovery announcements
+[GUGOS] 14:25:57 INFO: Local discovery over IPv6 unavailable
+[GUGOS] 14:25:57 INFO: Starting global discovery announcements
+[GUGOS] 14:25:57 OK: Ready to synchronize romrepo (read-write)
+[GUGOS] 14:25:57 INFO: Device GUGOSFT-EFSP3EE-ZDWJQX4-T4E3APJ-WYIVSBJ-XMGCD37-MZUKGKQ-TC4BYA3 is "dawn-web" at [dynamic]
+[GUGOS] 14:25:57 INFO: No automatic upgrades; STNOUPGRADE environment variable defined.
+[GUGOS] 14:25:57 INFO: Completed initial scan (rw) of folder romrepo
